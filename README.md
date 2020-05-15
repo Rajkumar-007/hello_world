@@ -1,2 +1,2 @@
 # hello_world
-try out
+main program
