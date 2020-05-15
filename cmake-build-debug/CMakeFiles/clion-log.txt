@@ -1,0 +1,42 @@
+"C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\Onedata\Desktop\hello_world\hello_world
+-- Found Git: C:/Program Files/Git/bin/git.exe (found version "2.25.0.windows.1") 
+-- Checking Python dependencies...
+Python requirements from C:/Users/Onedata/esp/esp-idf\requirements.txt are satisfied.
+-- IDF_TARGET not set, using default target: esp32
+-- Building for target esp32
+-- ccache will be used for faster builds
+-- The C compiler identification is GNU 5.2.0
+-- The CXX compiler identification is GNU 5.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe
+-- Check for working C compiler: C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe
+-- Check for working C compiler: C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe
+-- Check for working CXX compiler: C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building empty aws_iot component due to configuration
+-- Component names: soc log heap xtensa-debug-module app_trace freertos vfs newlib esp_ringbuf driver esp_event ethernet mbedtls micro-ecc efuse bootloader_support partition_table app_update spi_flash nvs_flash lwip tcpip_adapter pthread smartconfig_ack wpa_supplicant espcoredump esp32 cxx asio jsmn aws_iot bootloader nimble bt coap console nghttp esp-tls esp_adc_cal tcp_transport esp_http_client esp_http_server esp_https_ota openssl esp_https_server esptool_py expat wear_levelling sdmmc fatfs freemodbus idf_test json libsodium mdns mqtt protobuf-c protocomm spiffs ulp unity wifi_provisioning main
+-- Component paths: C:/Users/Onedata/esp/esp-idf/components/soc;C:/Users/Onedata/esp/esp-idf/components/log;C:/Users/Onedata/esp/esp-idf/components/heap;C:/Users/Onedata/esp/esp-idf/components/xtensa-debug-module;C:/Users/Onedata/esp/esp-idf/components/app_trace;C:/Users/Onedata/esp/esp-idf/components/freertos;C:/Users/Onedata/esp/esp-idf/components/vfs;C:/Users/Onedata/esp/esp-idf/components/newlib;C:/Users/Onedata/esp/esp-idf/components/esp_ringbuf;C:/Users/Onedata/esp/esp-idf/components/driver;C:/Users/Onedata/esp/esp-idf/components/esp_event;C:/Users/Onedata/esp/esp-idf/components/ethernet;C:/Users/Onedata/esp/esp-idf/components/mbedtls;C:/Users/Onedata/esp/esp-idf/components/micro-ecc;C:/Users/Onedata/esp/esp-idf/components/efuse;C:/Users/Onedata/esp/esp-idf/components/bootloader_support;C:/Users/Onedata/esp/esp-idf/components/partition_table;C:/Users/Onedata/esp/esp-idf/components/app_update;C:/Users/Onedata/esp/esp-idf/components/spi_flash;C:/Users/Onedata/esp/esp-idf/components/nvs_flash;C:/Users/Onedata/esp/esp-idf/components/lwip;C:/Users/Onedata/esp/esp-idf/components/tcpip_adapter;C:/Users/Onedata/esp/esp-idf/components/pthread;C:/Users/Onedata/esp/esp-idf/components/smartconfig_ack;C:/Users/Onedata/esp/esp-idf/components/wpa_supplicant;C:/Users/Onedata/esp/esp-idf/components/espcoredump;C:/Users/Onedata/esp/esp-idf/components/esp32;C:/Users/Onedata/esp/esp-idf/components/cxx;C:/Users/Onedata/esp/esp-idf/components/asio;C:/Users/Onedata/esp/esp-idf/components/jsmn;C:/Users/Onedata/esp/esp-idf/components/aws_iot;C:/Users/Onedata/esp/esp-idf/components/bootloader;C:/Users/Onedata/esp/esp-idf/components/nimble;C:/Users/Onedata/esp/esp-idf/components/bt;C:/Users/Onedata/esp/esp-idf/components/coap;C:/Users/Onedata/esp/esp-idf/components/console;C:/Users/Onedata/esp/esp-idf/components/nghttp;C:/Users/Onedata/esp/esp-idf/components/esp-tls;C:/Users/Onedata/esp/esp-idf/components/esp_adc_cal;C:/Users/Onedata/esp/esp-idf/components/tcp_transport;C:/Users/Onedata/esp/esp-idf/components/esp_http_client;C:/Users/Onedata/esp/esp-idf/components/esp_http_server;C:/Users/Onedata/esp/esp-idf/components/esp_https_ota;C:/Users/Onedata/esp/esp-idf/components/openssl;C:/Users/Onedata/esp/esp-idf/components/esp_https_server;C:/Users/Onedata/esp/esp-idf/components/esptool_py;C:/Users/Onedata/esp/esp-idf/components/expat;C:/Users/Onedata/esp/esp-idf/components/wear_levelling;C:/Users/Onedata/esp/esp-idf/components/sdmmc;C:/Users/Onedata/esp/esp-idf/components/fatfs;C:/Users/Onedata/esp/esp-idf/components/freemodbus;C:/Users/Onedata/esp/esp-idf/components/idf_test;C:/Users/Onedata/esp/esp-idf/components/json;C:/Users/Onedata/esp/esp-idf/components/libsodium;C:/Users/Onedata/esp/esp-idf/components/mdns;C:/Users/Onedata/esp/esp-idf/components/mqtt;C:/Users/Onedata/esp/esp-idf/components/protobuf-c;C:/Users/Onedata/esp/esp-idf/components/protocomm;C:/Users/Onedata/esp/esp-idf/components/spiffs;C:/Users/Onedata/esp/esp-idf/components/ulp;C:/Users/Onedata/esp/esp-idf/components/unity;C:/Users/Onedata/esp/esp-idf/components/wifi_provisioning;C:/Users/Onedata/Desktop/hello_world/hello_world/main
+-- IDF_VER: v3.3.1
+-- Project version: 9a585ca
+Junction created for C:\Users\Onedata\Desktop\hello_world\hello_world\cmake-build-debug\esp-idf\mbedtls\mbedtls\include\mbedtls <<===>> C:\Users\Onedata\esp\esp-idf\components\mbedtls\mbedtls\include\mbedtls
+Junction created for C:\Users\Onedata\Desktop\hello_world\hello_world\cmake-build-debug\esp-idf\mbedtls\mbedtls\scripts <<===>> C:\Users\Onedata\esp\esp-idf\components\mbedtls\mbedtls\scripts
+-- Found PythonInterp: C:/Python27amd64/python.exe (found version "2.7.16") 
+-- Could NOT find Perl (missing: PERL_EXECUTABLE) 
+-- Adding linker script C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/esp-idf/esp32/esp32_out.ld
+-- Adding linker script C:/Users/Onedata/esp/esp-idf/components/esp32/ld/esp32.rom.ld
+-- Adding linker script C:/Users/Onedata/esp/esp-idf/components/esp32/ld/esp32.peripherals.ld
+-- Adding linker script C:/Users/Onedata/esp/esp-idf/components/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script C:/Users/Onedata/esp/esp-idf/components/esp32/ld/esp32.rom.spiram_incompatible_fns.ld
+-- Building empty aws_iot component due to configuration
+-- Component libraries: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug

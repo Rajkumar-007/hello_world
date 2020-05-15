@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hello-world" targetName="idf_component_esp_http_server_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_vfs_sections_info" />
+      <config projectName="hello-world" targetName="efuse_custom_table" />
+      <config projectName="hello-world" targetName="idf_component_spiffs_sections_info" />
+      <config projectName="hello-world" targetName="efuse_common_table" />
+      <config projectName="hello-world" targetName="idf_component_cxx" />
+      <config projectName="hello-world" targetName="idf_component_tcp_transport" />
+      <config projectName="hello-world" targetName="idf_component_esp_https_server" />
+      <config projectName="hello-world" targetName="idf_component_jsmn_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_lwip_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_protocomm_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp_event_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_freertos" />
+      <config projectName="hello-world" targetName="idf_component_smartconfig_ack" />
+      <config projectName="hello-world" targetName="idf_component_esp_https_server_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_mbedtls_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp_ringbuf_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_json" />
+      <config projectName="hello-world" targetName="idf_component_mbedtls" />
+      <config projectName="hello-world" targetName="idf_component_heap" />
+      <config projectName="hello-world" targetName="mbedtls" />
+      <config projectName="hello-world" targetName="idf_component_vfs" />
+      <config projectName="hello-world" targetName="idf_component_esp-tls_sections_info" />
+      <config projectName="hello-world" targetName="lib" />
+      <config projectName="hello-world" targetName="esp32_linker_script" />
+      <config projectName="hello-world" targetName="idf_component_lwip" />
+      <config projectName="hello-world" targetName="idf_component_spi_flash_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_coap_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_ulp" />
+      <config projectName="hello-world" targetName="idf_component_tcp_transport_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_nghttp_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_ethernet_sections_info" />
+      <config projectName="hello-world" targetName="erase_otadata" />
+      <config projectName="hello-world" targetName="size-components" />
+      <config projectName="hello-world" targetName="size-files" />
+      <config projectName="hello-world" targetName="confserver" />
+      <config projectName="hello-world" targetName="ldgen" />
+      <config projectName="hello-world" targetName="idf_component_espcoredump_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_newlib" />
+      <config projectName="hello-world" targetName="idf_component_wpa_supplicant_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_efuse_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_ulp_sections_info" />
+      <config projectName="hello-world" targetName="mbedx509" />
+      <config projectName="hello-world" targetName="idf_component_smartconfig_ack_sections_info" />
+      <config projectName="hello-world" targetName="bootloader-flash" />
+      <config projectName="hello-world" targetName="menuconfig" />
+      <config projectName="hello-world" targetName="idf_component_unity" />
+      <config projectName="hello-world" targetName="read_otadata" />
+      <config projectName="hello-world" targetName="idf_component_protobuf-c_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_unity_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_app_update" />
+      <config projectName="hello-world" targetName="idf_component_console_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp_http_server" />
+      <config projectName="hello-world" targetName="idf_component_freemodbus" />
+      <config projectName="hello-world" targetName="idf_component_bootloader_support_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_mqtt" />
+      <config projectName="hello-world" targetName="idf_component_expat" />
+      <config projectName="hello-world" targetName="idf_component_efuse" />
+      <config projectName="hello-world" targetName="idf_component_soc" />
+      <config projectName="hello-world" targetName="idf_component_fatfs_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_libsodium" />
+      <config projectName="hello-world" targetName="idf_component_freemodbus_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_nvs_flash" />
+      <config projectName="hello-world" targetName="idf_component_libsodium_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_cxx_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp_adc_cal_sections_info" />
+      <config projectName="hello-world" targetName="flash" />
+      <config projectName="hello-world" targetName="idf_component_app_trace_sections_info" />
+      <config projectName="hello-world" targetName="apidoc" />
+      <config projectName="hello-world" targetName="idf_component_newlib_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_tcpip_adapter" />
+      <config projectName="hello-world" targetName="idf_component_tcpip_adapter_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_openssl_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_xtensa-debug-module" />
+      <config projectName="hello-world" targetName="ldgen_esp32.project.ld_script" />
+      <config projectName="hello-world" targetName="idf_component_nvs_flash_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_bootloader_support" />
+      <config projectName="hello-world" targetName="idf_component_esp32" />
+      <config projectName="hello-world" targetName="idf_component_expat_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp-tls" />
+      <config projectName="hello-world" targetName="idf_component_app_trace" />
+      <config projectName="hello-world" targetName="show_efuse_table" />
+      <config projectName="hello-world" targetName="idf_component_esp_http_client_sections_info" />
+      <config projectName="hello-world" targetName="app" />
+      <config projectName="hello-world" targetName="idf_component_mqtt_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_wear_levelling_sections_info" />
+      <config projectName="hello-world" targetName="hello-world.elf" />
+      <config projectName="hello-world" targetName="idf_component_wifi_provisioning" />
+      <config projectName="hello-world" targetName="idf_component_mdns" />
+      <config projectName="hello-world" targetName="idf_component_micro-ecc" />
+      <config projectName="hello-world" targetName="idf_component_pthread" />
+      <config projectName="hello-world" targetName="idf_component_protocomm" />
+      <config projectName="hello-world" targetName="idf_component_pthread_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_log_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp_https_ota_sections_info" />
+      <config projectName="hello-world" targetName="bootloader" />
+      <config projectName="hello-world" targetName="idf_component_esp_https_ota" />
+      <config projectName="hello-world" targetName="idf_component_driver" />
+      <config projectName="hello-world" targetName="gen_secure_boot_signing_key" />
+      <config projectName="hello-world" targetName="idf_component_coap" />
+      <config projectName="hello-world" targetName="idf_component_log" />
+      <config projectName="hello-world" targetName="idf_component_json_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp32_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_protobuf-c" />
+      <config projectName="hello-world" targetName="idf_component_micro-ecc_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_nghttp" />
+      <config projectName="hello-world" targetName="partition_table" />
+      <config projectName="hello-world" targetName="idf_component_sdmmc_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_spi_flash" />
+      <config projectName="hello-world" targetName="idf_component_esp_http_client" />
+      <config projectName="hello-world" targetName="idf_component_spiffs" />
+      <config projectName="hello-world" targetName="app-flash" />
+      <config projectName="hello-world" targetName="idf_component_heap_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_wear_levelling" />
+      <config projectName="hello-world" targetName="idf_component_esp_adc_cal" />
+      <config projectName="hello-world" targetName="efuse_test_table" />
+      <config projectName="hello-world" targetName="idf_component_mdns_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_main_sections_info" />
+      <config projectName="hello-world" targetName="mbedcrypto" />
+      <config projectName="hello-world" targetName="idf_component_soc_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_console" />
+      <config projectName="hello-world" targetName="idf_component_espcoredump" />
+      <config projectName="hello-world" targetName="idf_component_sdmmc" />
+      <config projectName="hello-world" targetName="idf_component_esp_ringbuf" />
+      <config projectName="hello-world" targetName="idf_component_openssl" />
+      <config projectName="hello-world" targetName="idf_component_app_update_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_esp_event" />
+      <config projectName="hello-world" targetName="idf_component_jsmn" />
+      <config projectName="hello-world" targetName="idf_component_asio" />
+      <config projectName="hello-world" targetName="idf_component_ethernet" />
+      <config projectName="hello-world" targetName="idf_component_driver_sections_info" />
+      <config projectName="hello-world" targetName="idf_component_asio_sections_info" />
+      <config projectName="hello-world" targetName="ldgen_section_infos" />
+      <config projectName="hello-world" targetName="idf_component_wpa_supplicant" />
+      <config projectName="hello-world" targetName="idf_component_xtensa-debug-module_sections_info" />
+      <config projectName="hello-world" targetName="size" />
+      <config projectName="hello-world" targetName="idf_component_main" />
+      <config projectName="hello-world" targetName="idf_component_freertos_sections_info" />
+      <config projectName="hello-world" targetName="dummy_main_src" />
+      <config projectName="hello-world" targetName="idf_component_fatfs" />
+      <config projectName="hello-world" targetName="idf_component_wifi_provisioning_sections_info" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="956588b1-31b8-41f8-a1ba-8d40a54c6524" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XvP1kG7w0AlbK7isk60zlb3AOv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="CMake Application.hello-world.elf">
+    <configuration name="apidoc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="apidoc" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app-flash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="app-flash" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="app" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bootloader-flash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="bootloader-flash" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bootloader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="bootloader" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="confserver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="confserver" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dummy_main_src" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="dummy_main_src" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="efuse_common_table" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="efuse_common_table" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="efuse_custom_table" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="efuse_custom_table" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="efuse_test_table" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="efuse_test_table" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="erase_otadata" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="erase_otadata" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="esp32_linker_script" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="esp32_linker_script" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="flash" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gen_secure_boot_signing_key" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="gen_secure_boot_signing_key" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello-world.elf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="hello-world.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hello-world" RUN_TARGET_NAME="hello-world.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_app_trace" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_app_trace" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_app_trace_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_app_trace_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_app_update" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_app_update" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_app_update_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_app_update_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_asio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_asio" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_asio_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_asio_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_bootloader_support" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_bootloader_support" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_bootloader_support_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_bootloader_support_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_coap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_coap" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_coap_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_coap_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_console" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_console" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_console_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_console_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_cxx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_cxx" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_cxx_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_cxx_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_driver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_driver" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_driver_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_driver_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_efuse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_efuse" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_efuse_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_efuse_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp-tls" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp-tls" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp-tls_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp-tls_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp32" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp32" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp32_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp32_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_adc_cal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_adc_cal" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_adc_cal_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_adc_cal_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_event" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_event" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_event_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_event_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_http_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_http_client" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_http_client_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_http_client_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_http_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_http_server" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_http_server_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_http_server_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_https_ota" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_https_ota" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_https_ota_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_https_ota_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_https_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_https_server" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_https_server_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_https_server_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_ringbuf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_ringbuf" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_esp_ringbuf_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_esp_ringbuf_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_espcoredump" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_espcoredump" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_espcoredump_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_espcoredump_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_ethernet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_ethernet" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_ethernet_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_ethernet_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_expat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_expat" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_expat_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_expat_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_fatfs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_fatfs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_fatfs_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_fatfs_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_freemodbus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_freemodbus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_freemodbus_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_freemodbus_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_freertos" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_freertos" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_freertos_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_freertos_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_heap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_heap" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_heap_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_heap_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_jsmn" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_jsmn" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_jsmn_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_jsmn_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_json" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_json" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_json_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_json_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_libsodium" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_libsodium" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_libsodium_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_libsodium_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_log" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_log" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_log_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_log_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_lwip" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_lwip" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_lwip_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_lwip_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_main_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_main_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_mbedtls" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_mbedtls" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_mbedtls_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_mbedtls_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_mdns" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_mdns" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_mdns_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_mdns_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_micro-ecc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_micro-ecc" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_micro-ecc_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_micro-ecc_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_mqtt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_mqtt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_mqtt_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_mqtt_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_newlib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_newlib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_newlib_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_newlib_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_nghttp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_nghttp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_nghttp_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_nghttp_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_nvs_flash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_nvs_flash" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_nvs_flash_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_nvs_flash_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_openssl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_openssl" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_openssl_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_openssl_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_protobuf-c" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_protobuf-c" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_protobuf-c_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_protobuf-c_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_protocomm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_protocomm" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_protocomm_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_protocomm_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_pthread" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_pthread" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_pthread_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_pthread_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_sdmmc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_sdmmc" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_sdmmc_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_sdmmc_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_smartconfig_ack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_smartconfig_ack" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_smartconfig_ack_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_smartconfig_ack_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_soc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_soc" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_soc_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_soc_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_spi_flash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_spi_flash" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_spi_flash_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_spi_flash_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_spiffs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_spiffs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_spiffs_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_spiffs_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_tcp_transport" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_tcp_transport" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_tcp_transport_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_tcp_transport_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_tcpip_adapter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_tcpip_adapter" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_tcpip_adapter_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_tcpip_adapter_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_ulp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_ulp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_ulp_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_ulp_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_unity" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_unity" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_unity_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_unity_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_vfs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_vfs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_vfs_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_vfs_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_wear_levelling" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_wear_levelling" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_wear_levelling_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_wear_levelling_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_wifi_provisioning" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_wifi_provisioning" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_wifi_provisioning_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_wifi_provisioning_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_wpa_supplicant" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_wpa_supplicant" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_wpa_supplicant_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_wpa_supplicant_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_xtensa-debug-module" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_xtensa-debug-module" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idf_component_xtensa-debug-module_sections_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="idf_component_xtensa-debug-module_sections_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ldgen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="ldgen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ldgen_esp32.project.ld_script" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="ldgen_esp32.project.ld_script" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ldgen_section_infos" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="ldgen_section_infos" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mbedcrypto" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="mbedcrypto" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mbedtls" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="mbedtls" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mbedx509" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="mbedx509" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menuconfig" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="menuconfig" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="partition_table" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="partition_table" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="read_otadata" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="read_otadata" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="show_efuse_table" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="show_efuse_table" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="size-components" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="size-components" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="size-files" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="size-files" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="size" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello-world" TARGET_NAME="size" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.app" />
+      <item itemvalue="CMake Application.app-flash" />
+      <item itemvalue="CMake Application.bootloader" />
+      <item itemvalue="CMake Application.bootloader-flash" />
+      <item itemvalue="CMake Application.confserver" />
+      <item itemvalue="CMake Application.dummy_main_src" />
+      <item itemvalue="CMake Application.flash" />
+      <item itemvalue="CMake Application.gen_secure_boot_signing_key" />
+      <item itemvalue="CMake Application.hello-world.elf" />
+      <item itemvalue="CMake Application.ldgen" />
+      <item itemvalue="CMake Application.ldgen_section_infos" />
+      <item itemvalue="CMake Application.menuconfig" />
+      <item itemvalue="CMake Application.size" />
+      <item itemvalue="CMake Application.size-components" />
+      <item itemvalue="CMake Application.size-files" />
+      <item itemvalue="CMake Application.idf_component_main" />
+      <item itemvalue="CMake Application.idf_component_main_sections_info" />
+      <item itemvalue="CMake Application.idf_component_app_trace" />
+      <item itemvalue="CMake Application.idf_component_app_trace_sections_info" />
+      <item itemvalue="CMake Application.erase_otadata" />
+      <item itemvalue="CMake Application.idf_component_app_update" />
+      <item itemvalue="CMake Application.idf_component_app_update_sections_info" />
+      <item itemvalue="CMake Application.read_otadata" />
+      <item itemvalue="CMake Application.idf_component_asio" />
+      <item itemvalue="CMake Application.idf_component_asio_sections_info" />
+      <item itemvalue="CMake Application.idf_component_bootloader_support" />
+      <item itemvalue="CMake Application.idf_component_bootloader_support_sections_info" />
+      <item itemvalue="CMake Application.idf_component_coap" />
+      <item itemvalue="CMake Application.idf_component_coap_sections_info" />
+      <item itemvalue="CMake Application.idf_component_console" />
+      <item itemvalue="CMake Application.idf_component_console_sections_info" />
+      <item itemvalue="CMake Application.idf_component_cxx" />
+      <item itemvalue="CMake Application.idf_component_cxx_sections_info" />
+      <item itemvalue="CMake Application.idf_component_driver" />
+      <item itemvalue="CMake Application.idf_component_driver_sections_info" />
+      <item itemvalue="CMake Application.efuse_common_table" />
+      <item itemvalue="CMake Application.efuse_custom_table" />
+      <item itemvalue="CMake Application.efuse_test_table" />
+      <item itemvalue="CMake Application.idf_component_efuse" />
+      <item itemvalue="CMake Application.idf_component_efuse_sections_info" />
+      <item itemvalue="CMake Application.show_efuse_table" />
+      <item itemvalue="CMake Application.idf_component_esp-tls" />
+      <item itemvalue="CMake Application.idf_component_esp-tls_sections_info" />
+      <item itemvalue="CMake Application.esp32_linker_script" />
+      <item itemvalue="CMake Application.idf_component_esp32" />
+      <item itemvalue="CMake Application.idf_component_esp32_sections_info" />
+      <item itemvalue="CMake Application.ldgen_esp32.project.ld_script" />
+      <item itemvalue="CMake Application.idf_component_esp_adc_cal" />
+      <item itemvalue="CMake Application.idf_component_esp_adc_cal_sections_info" />
+      <item itemvalue="CMake Application.idf_component_esp_event" />
+      <item itemvalue="CMake Application.idf_component_esp_event_sections_info" />
+      <item itemvalue="CMake Application.idf_component_esp_http_client" />
+      <item itemvalue="CMake Application.idf_component_esp_http_client_sections_info" />
+      <item itemvalue="CMake Application.idf_component_esp_http_server" />
+      <item itemvalue="CMake Application.idf_component_esp_http_server_sections_info" />
+      <item itemvalue="CMake Application.idf_component_esp_https_ota" />
+      <item itemvalue="CMake Application.idf_component_esp_https_ota_sections_info" />
+      <item itemvalue="CMake Application.idf_component_esp_https_server" />
+      <item itemvalue="CMake Application.idf_component_esp_https_server_sections_info" />
+      <item itemvalue="CMake Application.idf_component_esp_ringbuf" />
+      <item itemvalue="CMake Application.idf_component_esp_ringbuf_sections_info" />
+      <item itemvalue="CMake Application.idf_component_espcoredump" />
+      <item itemvalue="CMake Application.idf_component_espcoredump_sections_info" />
+      <item itemvalue="CMake Application.idf_component_ethernet" />
+      <item itemvalue="CMake Application.idf_component_ethernet_sections_info" />
+      <item itemvalue="CMake Application.idf_component_expat" />
+      <item itemvalue="CMake Application.idf_component_expat_sections_info" />
+      <item itemvalue="CMake Application.idf_component_fatfs" />
+      <item itemvalue="CMake Application.idf_component_fatfs_sections_info" />
+      <item itemvalue="CMake Application.idf_component_freemodbus" />
+      <item itemvalue="CMake Application.idf_component_freemodbus_sections_info" />
+      <item itemvalue="CMake Application.idf_component_freertos" />
+      <item itemvalue="CMake Application.idf_component_freertos_sections_info" />
+      <item itemvalue="CMake Application.idf_component_heap" />
+      <item itemvalue="CMake Application.idf_component_heap_sections_info" />
+      <item itemvalue="CMake Application.idf_component_jsmn" />
+      <item itemvalue="CMake Application.idf_component_jsmn_sections_info" />
+      <item itemvalue="CMake Application.idf_component_json" />
+      <item itemvalue="CMake Application.idf_component_json_sections_info" />
+      <item itemvalue="CMake Application.idf_component_libsodium" />
+      <item itemvalue="CMake Application.idf_component_libsodium_sections_info" />
+      <item itemvalue="CMake Application.idf_component_log" />
+      <item itemvalue="CMake Application.idf_component_log_sections_info" />
+      <item itemvalue="CMake Application.idf_component_lwip" />
+      <item itemvalue="CMake Application.idf_component_lwip_sections_info" />
+      <item itemvalue="CMake Application.idf_component_mbedtls" />
+      <item itemvalue="CMake Application.idf_component_mbedtls_sections_info" />
+      <item itemvalue="CMake Application.apidoc" />
+      <item itemvalue="CMake Application.lib" />
+      <item itemvalue="CMake Application.mbedcrypto" />
+      <item itemvalue="CMake Application.mbedtls" />
+      <item itemvalue="CMake Application.mbedx509" />
+      <item itemvalue="CMake Application.idf_component_mdns" />
+      <item itemvalue="CMake Application.idf_component_mdns_sections_info" />
+      <item itemvalue="CMake Application.idf_component_micro-ecc" />
+      <item itemvalue="CMake Application.idf_component_micro-ecc_sections_info" />
+      <item itemvalue="CMake Application.idf_component_mqtt" />
+      <item itemvalue="CMake Application.idf_component_mqtt_sections_info" />
+      <item itemvalue="CMake Application.idf_component_newlib" />
+      <item itemvalue="CMake Application.idf_component_newlib_sections_info" />
+      <item itemvalue="CMake Application.idf_component_nghttp" />
+      <item itemvalue="CMake Application.idf_component_nghttp_sections_info" />
+      <item itemvalue="CMake Application.idf_component_nvs_flash" />
+      <item itemvalue="CMake Application.idf_component_nvs_flash_sections_info" />
+      <item itemvalue="CMake Application.idf_component_openssl" />
+      <item itemvalue="CMake Application.idf_component_openssl_sections_info" />
+      <item itemvalue="CMake Application.partition_table" />
+      <item itemvalue="CMake Application.idf_component_protobuf-c" />
+      <item itemvalue="CMake Application.idf_component_protobuf-c_sections_info" />
+      <item itemvalue="CMake Application.idf_component_protocomm" />
+      <item itemvalue="CMake Application.idf_component_protocomm_sections_info" />
+      <item itemvalue="CMake Application.idf_component_pthread" />
+      <item itemvalue="CMake Application.idf_component_pthread_sections_info" />
+      <item itemvalue="CMake Application.idf_component_sdmmc" />
+      <item itemvalue="CMake Application.idf_component_sdmmc_sections_info" />
+      <item itemvalue="CMake Application.idf_component_smartconfig_ack" />
+      <item itemvalue="CMake Application.idf_component_smartconfig_ack_sections_info" />
+      <item itemvalue="CMake Application.idf_component_soc" />
+      <item itemvalue="CMake Application.idf_component_soc_sections_info" />
+      <item itemvalue="CMake Application.idf_component_spi_flash" />
+      <item itemvalue="CMake Application.idf_component_spi_flash_sections_info" />
+      <item itemvalue="CMake Application.idf_component_spiffs" />
+      <item itemvalue="CMake Application.idf_component_spiffs_sections_info" />
+      <item itemvalue="CMake Application.idf_component_tcp_transport" />
+      <item itemvalue="CMake Application.idf_component_tcp_transport_sections_info" />
+      <item itemvalue="CMake Application.idf_component_tcpip_adapter" />
+      <item itemvalue="CMake Application.idf_component_tcpip_adapter_sections_info" />
+      <item itemvalue="CMake Application.idf_component_ulp" />
+      <item itemvalue="CMake Application.idf_component_ulp_sections_info" />
+      <item itemvalue="CMake Application.idf_component_unity" />
+      <item itemvalue="CMake Application.idf_component_unity_sections_info" />
+      <item itemvalue="CMake Application.idf_component_vfs" />
+      <item itemvalue="CMake Application.idf_component_vfs_sections_info" />
+      <item itemvalue="CMake Application.idf_component_wear_levelling" />
+      <item itemvalue="CMake Application.idf_component_wear_levelling_sections_info" />
+      <item itemvalue="CMake Application.idf_component_wifi_provisioning" />
+      <item itemvalue="CMake Application.idf_component_wifi_provisioning_sections_info" />
+      <item itemvalue="CMake Application.idf_component_wpa_supplicant" />
+      <item itemvalue="CMake Application.idf_component_wpa_supplicant_sections_info" />
+      <item itemvalue="CMake Application.idf_component_xtensa-debug-module" />
+      <item itemvalue="CMake Application.idf_component_xtensa-debug-module_sections_info" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="956588b1-31b8-41f8-a1ba-8d40a54c6524" name="Default Changelist" comment="" />
+      <created>1581923381910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581923381910</updated>
+      <workItem from="1581923384166" duration="6237000" />
+      <workItem from="1582001710095" duration="4233000" />
+      <workItem from="1582089102228" duration="5357000" />
+      <workItem from="1582174058052" duration="1239000" />
+      <workItem from="1589558618964" duration="293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581926897461">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1581926897461" />
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1582174088537">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582174088537" />
+    <state x="380" y="166" key="IDE.errors.dialog" timestamp="1581932713723">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="166" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1581932713723" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1582092103262">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.1600.860@0.0.1600.860" timestamp="1582092103262" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1582092103262">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1600.860@0.0.1600.860" timestamp="1582092103262" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1582174076348">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582174076348" />
+  </component>
+</project>

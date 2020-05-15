@@ -1,0 +1,1 @@
+cmd='C:/Users/Onedata/.espressif/tools/cmake/3.13.4/bin/cmake.exe;-DSDKCONFIG=C:/Users/Onedata/Desktop/hello_world/hello_world/sdkconfig;-DIDF_PATH=C:/Users/Onedata/esp/esp-idf;-DSECURE_BOOT_SIGNING_KEY=C:/Users/Onedata/Desktop/hello_world/hello_world;-DEXTRA_COMPONENT_DIRS=C:/Users/Onedata/esp/esp-idf/components/bootloader;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

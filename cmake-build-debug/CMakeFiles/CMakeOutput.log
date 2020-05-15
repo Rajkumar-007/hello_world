@@ -1,0 +1,388 @@
+The target system is: Generic -  - 
+The host system is: Windows - 10.0.18362 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+xtensa-esp32-elf-gcc.exe (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) 5.2.0
+Copyright (C) 2015 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_de799\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_de799.dir\build.make /nologo -L                  CMakeFiles\cmTC_de799.dir\build
+Building C object CMakeFiles/cmTC_de799.dir/testCCompiler.c.obj
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe   -mlongcalls -o CMakeFiles\cmTC_de799.dir\testCCompiler.c.obj   -c C:\Users\Onedata\Desktop\hello_world\hello_world\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_de799
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe -mlongcalls   -nostdlib  "CMakeFiles\cmTC_de799.dir\testCCompiler.c.obj"   -o cmTC_de799
+c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00400054
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_8c1ed\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_8c1ed.dir\build.make /nologo -L                  CMakeFiles\cmTC_8c1ed.dir\build
+Building C object CMakeFiles/cmTC_8c1ed.dir/CMakeCCompilerABI.c.obj
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe   -mlongcalls    -v -o CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe
+Target: xtensa-esp32-elf
+Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio
+Thread model: posix
+gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) 
+COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj' '-c'
+ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/cc1.exe -quiet -v -iprefix c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/ -isysroot c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mlongcalls -auxbase-strip CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\Onedata\AppData\Local\Temp\ccw9xi4b.s
+GNU C11 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)
+	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include"
+ignoring nonexistent directory "c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/../../../../include"
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/usr/include
+End of search list.
+GNU C11 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)
+	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: f8c150667b22ef24be0575fd93addc63
+COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj' '-c'
+ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/as.exe --traditional-format --longcalls -o CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj C:\Users\Onedata\AppData\Local\Temp\ccw9xi4b.s
+COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/
+LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj' '-c'
+Linking C executable cmTC_8c1ed
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe -mlongcalls   -nostdlib -v "CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj"   -o cmTC_8c1ed
+Using built-in specs.
+COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe
+COLLECT_LTO_WRAPPER=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe
+Target: xtensa-esp32-elf
+Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio
+Thread model: posix
+gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) 
+COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/
+LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-mlongcalls' '-nostdlib' '-v' '-o' 'cmTC_8c1ed'
+ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/collect2.exe -plugin c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/liblto_plugin-0.dll -plugin-opt=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Onedata\AppData\Local\Temp\ccLyrq4c.res --sysroot=c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot -o cmTC_8c1ed -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0 -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj
+c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00400074
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/include]
+  end of search list found
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/include] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/include]
+  implicit include dirs: [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(xtensa-esp32-elf-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):nmake /nologo cmTC_8c1ed\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_8c1ed.dir\build.make /nologo -L                  CMakeFiles\cmTC_8c1ed.dir\build]
+  ignore line: [Building C object CMakeFiles/cmTC_8c1ed.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe   -mlongcalls    -v -o CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe]
+  ignore line: [Target: xtensa-esp32-elf]
+  ignore line: [Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj' '-c']
+  ignore line: [ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/cc1.exe -quiet -v -iprefix c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/ -isysroot c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mlongcalls -auxbase-strip CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\Onedata\AppData\Local\Temp\ccw9xi4b.s]
+  ignore line: [GNU C11 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)]
+  ignore line: [	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include"]
+  ignore line: [ignoring nonexistent directory "c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/../../../../include"]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C11 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)]
+  ignore line: [	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: f8c150667b22ef24be0575fd93addc63]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj' '-c']
+  ignore line: [ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/as.exe --traditional-format --longcalls -o CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj C:\Users\Onedata\AppData\Local\Temp\ccw9xi4b.s]
+  ignore line: [COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj' '-c']
+  ignore line: [Linking C executable cmTC_8c1ed]
+  ignore line: [	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe -mlongcalls   -nostdlib -v "CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj"   -o cmTC_8c1ed]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe]
+  ignore line: [Target: xtensa-esp32-elf]
+  ignore line: [Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) ]
+  ignore line: [COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-nostdlib' '-v' '-o' 'cmTC_8c1ed']
+  link line: [ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/collect2.exe -plugin c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/liblto_plugin-0.dll -plugin-opt=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Onedata\AppData\Local\Temp\ccLyrq4c.res --sysroot=c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot -o cmTC_8c1ed -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0 -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj]
+    arg [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\Onedata\AppData\Local\Temp\ccLyrq4c.res] ==> ignore
+    arg [--sysroot=c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_8c1ed] ==> ignore
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib]
+    arg [CMakeFiles\cmTC_8c1ed.dir\CMakeCCompilerABI.c.obj] ==> ignore
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/lib]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/lib]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/lib]
+  implicit libs: []
+  implicit dirs: [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/lib;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/lib;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/lib]
+  implicit fwks: []
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_df533\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_df533.dir\build.make /nologo -L                  CMakeFiles\cmTC_df533.dir\build
+Building CXX object CMakeFiles/cmTC_df533.dir/testCXXCompiler.cxx.obj
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe    -mlongcalls -o CMakeFiles\cmTC_df533.dir\testCXXCompiler.cxx.obj -c C:\Users\Onedata\Desktop\hello_world\hello_world\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_df533
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe  -mlongcalls   -nostdlib  "CMakeFiles\cmTC_df533.dir\testCXXCompiler.cxx.obj"   -o cmTC_df533
+c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00400054
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_e9410\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_e9410.dir\build.make /nologo -L                  CMakeFiles\cmTC_e9410.dir\build
+Building CXX object CMakeFiles/cmTC_e9410.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe    -mlongcalls    -v -o CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"
+Using built-in specs.
+COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe
+Target: xtensa-esp32-elf
+Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio
+Thread model: posix
+gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) 
+COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj' '-c'
+ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/cc1plus.exe -quiet -v -iprefix c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/ -isysroot c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mlongcalls -auxbase-strip CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\Onedata\AppData\Local\Temp\cczogNNe.s
+GNU C++ (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)
+	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0"
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf"
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/backward"
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include"
+ignoring nonexistent directory "c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/../../../../include"
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"
+ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/backward
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include
+ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/usr/include
+End of search list.
+GNU C++ (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)
+	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 866bbe3466f64d6eb8ddac865872a52a
+COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj' '-c'
+ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/as.exe --traditional-format --longcalls -o CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\Onedata\AppData\Local\Temp\cczogNNe.s
+COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/
+LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj' '-c'
+Linking CXX executable cmTC_e9410
+	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe  -mlongcalls   -nostdlib -v "CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj"   -o cmTC_e9410
+Using built-in specs.
+COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe
+COLLECT_LTO_WRAPPER=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe
+Target: xtensa-esp32-elf
+Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio
+Thread model: posix
+gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) 
+COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/
+LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/;c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-mlongcalls' '-nostdlib' '-v' '-o' 'cmTC_e9410'
+ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/collect2.exe -plugin c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/liblto_plugin-0.dll -plugin-opt=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Onedata\AppData\Local\Temp\cc6mfOgn.res --sysroot=c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot -o cmTC_e9410 -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0 -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj
+c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00400074
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/backward]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include]
+    add: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/include]
+  end of search list found
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/backward] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0/backward]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include]
+  collapse include dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/include] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/include]
+  implicit include dirs: [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0/backward;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(xtensa-esp32-elf-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: C:/Users/Onedata/Desktop/hello_world/hello_world/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):nmake /nologo cmTC_e9410\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_e9410.dir\build.make /nologo -L                  CMakeFiles\cmTC_e9410.dir\build]
+  ignore line: [Building CXX object CMakeFiles/cmTC_e9410.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe    -mlongcalls    -v -o CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe]
+  ignore line: [Target: xtensa-esp32-elf]
+  ignore line: [Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj' '-c']
+  ignore line: [ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/cc1plus.exe -quiet -v -iprefix c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/ -isysroot c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mlongcalls -auxbase-strip CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj -version -o C:\Users\Onedata\AppData\Local\Temp\cczogNNe.s]
+  ignore line: [GNU C++ (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)]
+  ignore line: [	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0"]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf"]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/backward"]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include"]
+  ignore line: [ignoring nonexistent directory "c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/../../../../include"]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"]
+  ignore line: [ignoring duplicate directory "c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/../../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include/c++/5.2.0/backward]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/include]
+  ignore line: [ c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++ (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) version 5.2.0 (xtensa-esp32-elf)]
+  ignore line: [	compiled by GNU C version 6.3.0 20170516, GMP version 6.0.0, MPFR version 3.1.3, MPC version 1.0.3]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 866bbe3466f64d6eb8ddac865872a52a]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj' '-c']
+  ignore line: [ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/as.exe --traditional-format --longcalls -o CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\Onedata\AppData\Local\Temp\cczogNNe.s]
+  ignore line: [COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-v' '-o' 'CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj' '-c']
+  ignore line: [Linking CXX executable cmTC_e9410]
+  ignore line: [	C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe  -mlongcalls   -nostdlib -v "CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj"   -o cmTC_e9410]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Users\Onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe]
+  ignore line: [Target: xtensa-esp32-elf]
+  ignore line: [Configured with: /builds/idf/crosstool-NG/.build/src/gcc-5.2.0/configure --build=x86_64-build_pc-linux-gnu --host=i686-host_pc-mingw32 --target=xtensa-esp32-elf --prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf --with-local-prefix=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-sysroot=/builds/idf/crosstool-NG/builds/xtensa-esp32-elf/xtensa-esp32-elf/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5' --disable-__cxa_atexit --enable-cxx-flags='-fno-rtti -ffunction-sections' --with-gmp=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpfr=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-mpc=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-isl=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-cloog=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --with-libelf=/builds/idf/crosstool-NG/.build/xtensa-esp32-elf/buildtools/complibs-host --enable-lto --enable-target-optspace --without-long-double-128 --disable-libgomp --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-nls --enable-languages=c,c++ --disable-libstdcxx-verbose --enable-threads=posix --enable-gcov-custom-rtio]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (crosstool-NG crosstool-ng-1.22.0-80-g6c4433a5) ]
+  ignore line: [COMPILER_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib/]
+  ignore line: [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-nostdlib' '-v' '-o' 'cmTC_e9410']
+  link line: [ c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/collect2.exe -plugin c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/liblto_plugin-0.dll -plugin-opt=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Onedata\AppData\Local\Temp\cc6mfOgn.res --sysroot=c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot -o cmTC_e9410 -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0 -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib -Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj]
+    arg [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/5.2.0/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\Onedata\AppData\Local\Temp\cc6mfOgn.res] ==> ignore
+    arg [--sysroot=c:\users\onedata\.espressif\tools\xtensa-esp32-elf\1.22.0-80-g6c4433a5-5.2.0\xtensa-esp32-elf\bin\../xtensa-esp32-elf/sysroot] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_e9410] ==> ignore
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib]
+    arg [-Lc:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib] ==> dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib]
+    arg [CMakeFiles\cmTC_e9410.dir\CMakeCXXCompilerABI.cpp.obj] ==> ignore
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/../../../../xtensa-esp32-elf/lib] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/lib]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/lib] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/lib]
+  collapse library dir [c:/users/onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/bin/../xtensa-esp32-elf/sysroot/usr/lib] ==> [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/lib]
+  implicit libs: []
+  implicit dirs: [C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/lib/gcc;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/lib;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/lib;C:/Users/Onedata/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a5-5.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sysroot/usr/lib]
+  implicit fwks: []
+
+
